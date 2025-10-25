@@ -3,7 +3,7 @@
 
 # EX NO 1: Cloud-account-set-up-and-services
 
-### Name : Vinodini R
+### Name : VINODINI R
 
 ### Reg no: 212223040244
 
